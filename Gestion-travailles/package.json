@@ -1,5 +1,5 @@
 {
-  "name": "Gestion-travailles",
+  "name": "gestion-travailles",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,9 +10,20 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.9",
-    "next": "15.1.7",
-    "postcss": "^8.5.3",
+    "framer-motion": "^12.7.4",
+    "next": "^15.3.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
+  },
+  "description": "This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "daisyui": "^5.0.27",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.4"
   }
 }
